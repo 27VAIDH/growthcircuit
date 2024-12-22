@@ -4,8 +4,13 @@
   "description": "A coming soon page for Growth Circuit. Stay tuned for updates!",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'No build step required' && exit 0"
+    "build": "echo 'Static site, no build required'"
   },
+  "keywords": [
+    "growth circuit",
+    "coming soon",
+    "website under construction"
+  ],
   "author": "",
   "license": "ISC"
 }
