@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "A coming soon page for Growth Circuit",
   "scripts": {
-    "build": "exit 0"
+    "build": "cp index.html build/"
   }
 }
