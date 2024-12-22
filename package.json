@@ -1,16 +1,8 @@
 {
   "name": "growthcircuit",
   "version": "1.0.0",
-  "description": "A coming soon page for Growth Circuit. Stay tuned for updates!",
-  "main": "index.html",
+  "description": "A coming soon page for Growth Circuit",
   "scripts": {
-    "build": "echo 'Static site, no build required'"
-  },
-  "keywords": [
-    "growth circuit",
-    "coming soon",
-    "website under construction"
-  ],
-  "author": "",
-  "license": "ISC"
+    "build": "exit 0"
+  }
 }
