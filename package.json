@@ -4,15 +4,8 @@
   "description": "A coming soon page for Growth Circuit. Stay tuned for updates!",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'No build step required' && exit 0",
-    "start": "http-server .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'No build step required' && exit 0"
   },
-  "keywords": [
-    "growth circuit",
-    "coming soon",
-    "website under construction"
-  ],
   "author": "",
   "license": "ISC"
 }
